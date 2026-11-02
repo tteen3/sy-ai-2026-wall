@@ -11,10 +11,10 @@ Every student adds **one file** here through a **pull request** — your first c
 3. Put this in the file:
 
    ```markdown
-   # Your Full Name
-   - Roll no: 541
-   - GitHub: @your-username
-   - My AI project: https://github.com/your-username/your-project
+   # Your Full abhishek 
+   - Roll no: 523
+   - GitHub: @tteen3
+   - My AI project: https://github.com/tteen3/mobile-world
    - One line about it: …
    ```
 
